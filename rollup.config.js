@@ -50,7 +50,7 @@ function minify() {
 
 function config({plugins = [], output = {}}) {
   return {
-    input: 'src/wechat_fetch.ts',
+    input: 'src/index.ts',
     plugins: [
       typescript({
         tsconfigOverride: {compilerOptions: {module: 'ES2015'}}

@@ -1,4 +1,4 @@
-import {fetchFunc, setWechatFetch, parseResponse} from './wechat_fetch';
+import {fetchFunc, setWechatFetch, parseResponse} from './index';
 
 describe('fetchFunc', () => {
   it('should return function', () => {

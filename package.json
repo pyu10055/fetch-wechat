@@ -1,6 +1,6 @@
 {
   "name": "fetch-wechat",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "browser fetch polyfill for wechat mini program platform",
   "main": "dist/index.js",
   "jsnext:main": "dist/fetch_wechat.esm.js",

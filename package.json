@@ -1,5 +1,5 @@
 {
-  "name": "@tensorflow/fetch-wechat",
+  "name": "fetch-wechat",
   "version": "0.0.1",
   "description": "browser fetch polyfill for wechat mini program platform",
   "main": "dist/src/index.js",
